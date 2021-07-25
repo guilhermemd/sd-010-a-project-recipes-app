@@ -1,8 +1,8 @@
-<h1 align="center">Hey, world :earth_americas:, This Fork is project from <a href="https://www.betrybe.com/">Trybe</a> </h1>
+<h1 align="center">Hey, world :earth_americas:, This Fork is project from <a href="https://www.betrybe.com/">Trybe</a>:heavy_exclamation_mark: </h1>
 <h3 align="center"> :arrow_right: To have a look at the branch I worked on <a href="https://github.com/guilhermemd/sd-010-a-project-recipes-app/tree/main-group-12">click here</a> :arrow_left: </h3>
 
-<h4 align="center">Have a Look on the <a href="https://heuristic-rosalind-3485e4.netlify.app/">Be Chef website</a> :globe_with_meridians:</h4>
-
+<h3 align="center">:globe_with_meridians: Have a Look on the <a href="https://heuristic-rosalind-3485e4.netlify.app/">BeChef APP website</a>:computer: :iphone:</h3>
+<h3 align="center"> :point_right: <a href="https://drive.google.com/file/d/16bDBsh5Yhcp3bD8NcCD5fp8rp2Br9LLb/view">PowerPoint Presentation</a> :eyes:</h3>
 <br><br><br><br><br>
 
 ### Termos de uso
