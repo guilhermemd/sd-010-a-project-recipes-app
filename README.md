@@ -3,6 +3,7 @@
 
 <h4 align="center">Have a Look on the <a href="https://heuristic-rosalind-3485e4.netlify.app/">Be Chef website</a> :globe_with_meridians:</h4>
 
+<br><br><br><br><br>
 
 ### Termos de uso
 
@@ -1734,3 +1735,6 @@ O avaliador automático não necessariamente avalia seu projeto na ordem em que 
 
 Você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso?
 Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
+
+<p>Ref: <a href="https://github.com/guilhermemd/sd-010-a-project-recipes-app/tree/main-group-15">15</a>,
+<a href="https://github.com/guilhermemd/sd-010-a-project-recipes-app/tree/main-group-32">32</a>.</p>
