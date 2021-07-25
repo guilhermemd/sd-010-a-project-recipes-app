@@ -1,3 +1,9 @@
+<h1 align="center">Hey, world :earth_americas:, This Fork is project from <a href="https://www.betrybe.com/">Trybe</a> </h1>
+<h3 align="center"> :arrow_right: To have a look at the branch I worked on <a href="https://github.com/guilhermemd/sd-010-a-project-recipes-app/tree/main-group-12">click here</a> :arrow_left: </h3>
+
+<h4 align="center">Have a Look on the <a href="https://heuristic-rosalind-3485e4.netlify.app/">Be Chef website</a> :globe_with_meridians:</h4>
+
+
 ### Termos de uso
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
