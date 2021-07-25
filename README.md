@@ -2,7 +2,6 @@
 <h3 align="center"> :arrow_right: To have a look at the branch I worked on <a href="https://github.com/guilhermemd/sd-010-a-project-recipes-app/tree/main-group-12">click here</a> :arrow_left: </h3>
 
 <h4 align="center">Have a Look on the <a href="https://heuristic-rosalind-3485e4.netlify.app/">Be Chef website</a> :globe_with_meridians:</h4>
-https://docs.google.com/presentation/d/16bDBsh5Yhcp3bD8NcCD5fp8rp2Br9LLb/edit#slide=id.p1
 
 <br><br><br><br><br>
 
